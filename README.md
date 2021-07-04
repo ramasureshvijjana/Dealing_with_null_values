@@ -3,7 +3,7 @@
 In data science, we are mainly facing issues with missing or null values. This code gives you an idea about how to fill null values in data by using python.
 
 ## Required instalations.
-pandas - pip install pandas
+pandas -    pip install pandas
 
 missingno - pip install missingno 
 
