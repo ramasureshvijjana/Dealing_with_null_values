@@ -9,4 +9,8 @@ missingno - pip install missingno
 ## files explanation
 ### visualize_null_values.py
 
-    We are facing so many problems with null values in data.in this case, we need to handle those null values in the part of data cleaning. The file visualize_null_values.py gives the total idea about, how to observe or visualize null values.
+We are facing so many problems with null values in data.in this case, we need to handle those null values in the part of data cleaning. The file visualize_null_values.py gives the total idea about, how to observe or visualize null values.
+
+### visualize_null_values_in_graphs.py
+
+This file teaches you to visualize the data in the heatmap, bar, matrix type of graphs. It is a very interesting part of this project because we can easily observe the null values from data.
